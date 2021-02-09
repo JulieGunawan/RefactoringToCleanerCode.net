@@ -1,4 +1,4 @@
-﻿package com.gildedrose;
+package com.css;
 
 public enum ScoringType
 {

@@ -1,4 +1,4 @@
-﻿package com.gildedrose;
+package com.css;
 
 public class BigDiceGame {
     public static int CalculateScore(ScoringType st, int die1, int die2, int d3, int dieFour, int fifthDie) {

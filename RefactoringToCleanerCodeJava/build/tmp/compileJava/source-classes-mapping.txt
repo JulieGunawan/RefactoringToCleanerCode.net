@@ -1,5 +1,0 @@
-com/css/BigDiceGame.java
- com.css.BigDiceGame
- com.css.BigDiceGame$1
-com/css/ScoringType.java
- com.css.ScoringType
